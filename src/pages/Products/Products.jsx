@@ -4,9 +4,6 @@ import arrowIcon from '@/assets/arrow-icon.svg';
 import starsIcon from '@/assets/stars-icon.svg';
 import plusIcon from '@/assets/plus-icon.svg';
 
-import logo from '@/assets/logo.svg';
-import productOneIcon from '@/assets/product-one.svg';
-
 import { FadeIn } from '@/components';
 
 export default function Products() {
