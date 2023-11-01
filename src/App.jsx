@@ -1,4 +1,4 @@
-import { Hero, Caze, Footer, Products, References, Services } from '@/pages';
+import { Hero, Care, Footer, Products, References, Services } from '@/pages';
 
 function App() {
   return (
@@ -6,11 +6,9 @@ function App() {
       <Hero />
       <Services />
       <Products />
-      {/* 
-      <Caze />
       <References />
-      
-      <Footer /> */}
+      <Care />
+      <Footer />
     </>
   );
 }
